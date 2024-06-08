@@ -1,4 +1,4 @@
-The aim of this project is to Utilize the mutlilingual speech recognition ability of whisper and combine it open source models for RAG.
+The aim of this project is to Utilize the mutlilingual speech recognition ability of whisper and combine it with open source models for RAG.
 
 Whisper is used to identify and extract and transcribe text from all languages to english
 
